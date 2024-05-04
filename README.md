@@ -1,2 +1,2 @@
 # bookbot
-A boot.dev project
+A boot.dev project, created by me
